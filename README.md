@@ -7,7 +7,7 @@
  * Git
  * Python 3.9.0
 
- # Usefful sites
+ # Useful sites
 
- 
+
 
