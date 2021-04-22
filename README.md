@@ -2,7 +2,7 @@
 
  Setting up project work flow with a "hello world" test.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=pYs5VDIruNc)
 
  # Development env
  * Im using VS code
